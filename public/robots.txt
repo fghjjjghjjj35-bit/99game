@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://99game.club/sitemap.xml
+
+Sitemap: https://99gameclub/sitemap.xml
